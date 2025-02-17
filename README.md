@@ -1,10 +1,10 @@
 ## Hi there 👋
-![Nvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivithasri-S&show_icons=true&theme=aura)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivithasri-S&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
+![Nvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivithasri&show_icons=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivithasri&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nivithasri-S&theme=aura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nivithasri&theme=aura)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nivithasri-S&color=0f0f0f&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Nivithasri&color=0f0f0f&style=for-the-badge)
 
 <!--
 **Nivithasri/Nivithasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
