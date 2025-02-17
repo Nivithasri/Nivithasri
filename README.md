@@ -1,6 +1,9 @@
 ## Hi there 👋
 ![Nvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivithasri&show_icons=true&theme=aura)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivithasri&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nivithasri&theme=aura)](https://git.io/streak-stats)
 
